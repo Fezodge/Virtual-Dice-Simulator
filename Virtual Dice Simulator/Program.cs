@@ -46,7 +46,7 @@ namespace Virtual_Dice
 
             //Tells the user about the application
             Console.ForegroundColor = ConsoleColor.DarkGreen;
-            Console.WriteLine("Hello and welcme to the Virtual Dice Simulator application, made by Fezodge III");
+            Console.WriteLine("Hello and welcome to the Virtual Dice Simulator application, made by Fezodge III");
             Console.ForegroundColor = oldColor;
             Console.WriteLine("In this application you will be able to roll virtual dice, just in case a real  one isn't at hand!");
             Console.Write("The dice to choose from are:  ");
