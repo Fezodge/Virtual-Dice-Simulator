@@ -1,0 +1,1 @@
+C:\Users\Joseph\Documents\C#\Virtual Dice Simulator\bin\Debug\Virtual Dice Simulator.exe.config
